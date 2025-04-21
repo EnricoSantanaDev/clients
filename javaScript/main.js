@@ -1,6 +1,6 @@
 import { obterElemento } from './utils.js'
 
-const API_URL = 'https://crudcrud.com/api/dadd4371585f4486b6e10796a3c8edc9/customers'
+const API_URL = 'https://crudcrud.com/api/4b54d19604534ec298a7cdd8860493ed/customers'
 
 const nomeInput = obterElemento('nome')
 const emailInput = obterElemento('email')
